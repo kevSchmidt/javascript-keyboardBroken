@@ -1,1 +1,2 @@
-Third example
+# Third example
+![Third way](/img/thirdSolution.png)
