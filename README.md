@@ -1,2 +1,2 @@
 # Second example
-![Second way](secondSolution.png)
+![Second way](img/secondSolution.png)
