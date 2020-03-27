@@ -1,6 +1,5 @@
-# KeyboardBroken
-## This repository contains three differents solutions for the same exercise in JavaScript.
-
+# Each branches contain a solution to this exercise:
+## KeyboardBroken
 - Given what is supposed to be typed and what is actually typed, write a function that returns the broken key(s).
 The function looks like: findBrokenKeys(correct phrase, what you actually typed)
 **Notes**
