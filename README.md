@@ -1,4 +1,4 @@
-# Second example
+# Second Solution
 ![](img/set1.png)
 ![](img/set2.png)
 ![](img/map1.png)
